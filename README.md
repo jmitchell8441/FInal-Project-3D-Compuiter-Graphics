@@ -4,4 +4,4 @@ My project is a video game that revolves around a grappling gun and movement. Th
 
 # How to play the game
 
-In order to play the game, all you have to do is go to this link https://play.unity.com/mg/other/webgl-builds-337849. I was able to build it on Unity WebGL to make it easier to access. WASD to move, space to jump, ctrl to crouch, left click to grapple! Thats all there is to it really. There are powerups that reset the grapple cooldown and the grapple cooldown only starts after you let go of the grapple!
+In order to play the game, all you have to do is go to this link https://play.unity.com/mg/other/webgl-builds-337849. I was able to build it on Unity WebGL to make it easier to access. WASD to move, space to jump, ctrl to crouch, left click to grapple! Thats all there is to it really. There are powerups that reset the grapple cooldown and the grapple cooldown only starts after you let go of the grapple! If the game is running too slow, turn on hardware acceleration!
